@@ -1,2 +1,6 @@
 # d303-oo
-Repositório com o código da aula de orientação a objetos
+
+## Executar o código (no terminal):
+`python classes.py`
+
+#### Descomentar o código para ver as funcionalidades
